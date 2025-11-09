@@ -15,14 +15,14 @@ const DEBUG = true; // Cambia a false para silenciar logs de depuración
   }
 
   // Registrar todas las subcarpetas explícitamente
-  MANUALS.forEach(dir => {
-    if (DEBUG) console.log(`🔹 Registrando traducciones de ${dir}`);
-    game.babele.register({
-      module: MODULE_ID,
-      lang: "es",
-      dir: "translations"
-    });
+const MANUALS = ["phb", "dmg", "mm"];
+MANUALS.forEach(dir => {
+  game.babele.register({
+    module: MODULE_ID,
+    lang: "es",
+    dir: `translations/${dir}`
   });
+});
 
   // Recargar traducciones si ya había registros previos
   if (typeof game.babele.reload === "function") {
