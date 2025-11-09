@@ -1,6 +1,6 @@
-# DnD-PHB-ES
+# dnd5e-manualES
 
-Traducción al español del **Player’s Handbook** para Foundry VTT usando **Babebele**. 
+Traducción al español de los manuales oficiales de D&D 5ª Ed. V.2025: **Player’s Handbook**, **Dungeon Master Guide** y **Monster Manual**. 
 
 ## Estado de la traducción
 - [ ] Conjuros
