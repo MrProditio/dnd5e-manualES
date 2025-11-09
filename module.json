@@ -22,7 +22,7 @@
   {
     "lang": "es",
     "name": "Español",
-    "path": "translations/dnd-players-handbook/es.json"
+    "path": "lang/es.json"
   }
 ],
   "relationships": {
