@@ -22,11 +22,6 @@
     "lang": "es",
     "name": "Español",
     "path": "translations/dnd-players-handbook/es.json"
-  },
-  {
-    "lang": "es",
-    "name": "Español (Convenient Effects)",
-    "path": "translations/dfreds-convenient-effects/es.json"
   }
 ],
   "relationships": {
