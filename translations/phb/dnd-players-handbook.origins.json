@@ -1,17 +1,17 @@
 {
-  "label": "Character Origins",
+  "label": "Orígenes de Personaje",
   "mapping": {
     "rangeActivities": {
       "path": "system.activities",
-      "converter": "rangeActivities"
+      "converter": "safeMergeEffects"
     },
     "activities": {
       "path": "system.activities",
-      "converter": "activities"
+      "converter": "safeMergeEffects"
     },
       "effects": {
       "path": "effects",
-      "converter": "effects"
+      "converter": "safeMergeEffects"
     }
   },
   

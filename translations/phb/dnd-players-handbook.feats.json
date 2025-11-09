@@ -1,5 +1,5 @@
 {
-  "label": "Feats",
+  "label": "Dotes",
   "mapping": {
     "rangeActivities": {
       "path": "system.activities",
@@ -15,10 +15,10 @@
     }
   },
   "folders": {
-    "Epic Boon Feats": "Epic Boon Feats",
-    "Fighting Style Feats": "Fighting Style Feats",
-    "Origin Feats": "Origin Feats",
-    "General Feats": "General Feats"
+    "Epic Boon Feats": "Dotes de Don Épico",
+    "Fighting Style Feats": "Dotes de Estilo de Combate",
+    "Origin Feats": "Dotes de Origen",
+    "General Feats": "Dotes General"
   },
   "entries": {
       "Boon of Combat Prowess": {
