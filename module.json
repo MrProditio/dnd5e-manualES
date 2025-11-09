@@ -13,7 +13,7 @@
   },
   "system": "dnd5e",
   "systemVersions": ["5.1.10"],
-  "esmodules": ["babele-register.js"],
+  "esmodules": [],
   "url": "https://github.com/MrProditio/DnD-PHB-ES",
   "manifest": "https://raw.githubusercontent.com/MrProditio/dnd5e-manualES/main/module.json",
   "download": "https://github.com/MrProditio/dnd5e-manualES/archive/refs/heads/main.zip",
