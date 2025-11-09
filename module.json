@@ -4,6 +4,7 @@
   "title": "D&D5e-manualES",
   "description": "Traducción al español de los manuales oficiales de D&D 5ª Ed. V.2025.",
   "version": "1.0.10",
+  "type": "module",
   "author": "MrProditio",
   "compatibility": {
     "minimum": "13",
