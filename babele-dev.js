@@ -6,7 +6,6 @@
  */
 
 const MODULE_ID = "dnd5e-manuales";
-const MANUALS = ["phb", "dmg", "mm"]; // subcarpetas dentro de translations
 const DEBUG = true; // Cambia a false para silenciar logs de depuración
 
 (async () => {
@@ -21,7 +20,7 @@ const DEBUG = true; // Cambia a false para silenciar logs de depuración
     game.babele.register({
       module: MODULE_ID,
       lang: "es",
-      dir: `translations/${dir}`
+      dir: "translations"
     });
   });
 
