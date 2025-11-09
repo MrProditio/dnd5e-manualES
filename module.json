@@ -11,7 +11,7 @@
     "verified": "13",
     "maximum": "13"
   },
-  "system": "dnd5e",
+  "systems": "dnd5e",
   "systemVersions": ["5.1.10"],
   "esmodules": [],
   "url": "https://github.com/MrProditio/DnD-PHB-ES",
