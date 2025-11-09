@@ -18,13 +18,7 @@
   "manifest": "https://raw.githubusercontent.com/MrProditio/dnd5e-manualES/main/module.json",
   "download": "https://github.com/MrProditio/dnd5e-manualES/archive/refs/heads/main.zip",
   "license": "MIT",
-"languages": [
-  {
-    "lang": "es",
-    "name": "Español",
-    "path": "lang/es.json"
-  }
-],
+"languages": [],
   "relationships": {
     "requires": [
       {
