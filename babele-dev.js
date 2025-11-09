@@ -15,7 +15,7 @@ const DEBUG = true; // Cambia a false para silenciar logs de depuración
     return;
   }
 
-  // Registrar todas las subcarpetas de traducciones explícitamente
+  // Registrar todas las subcarpetas explícitamente
   MANUALS.forEach(dir => {
     if (DEBUG) console.log(`🔹 Registrando traducciones de ${dir}`);
     game.babele.register({
